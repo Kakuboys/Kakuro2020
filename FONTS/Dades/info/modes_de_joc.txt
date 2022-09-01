@@ -1,0 +1,8 @@
+Modes de joc:
+
+Clàssic: Kakuro clàssic amb cronòmetre. Permet afegir partides al rànking i es compten per rècord.
+
+Bebé: Permet l'ús de comodins. El resultat no es pot guardar a rànquing ni compta pels rècords.
+
+Contrarellotge: Posa't a prova jugant amb temps limitat! El resultat no es pot guardar a rànquing ni compta pels rècords.
+

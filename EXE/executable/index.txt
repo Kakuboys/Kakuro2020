@@ -1,0 +1,3 @@
+Aquest directori conte l'executable.
+
+executeu kakuro2020.jar

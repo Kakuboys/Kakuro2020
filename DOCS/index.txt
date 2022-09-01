@@ -1,0 +1,4 @@
+Aquest directori conte la documentacio del projecte:
+
+Relacio de les classes implementades per cada membre del grup
+Manual d'usuari

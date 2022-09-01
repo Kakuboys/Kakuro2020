@@ -1,0 +1,11 @@
+Aquest directori conte el codi del projecte (source code) i els directoris necessaris per a la execucio.
+
+Hem fet servir el UI designer de IntelliJ IDEA per a moltes de les vistes, que crea els fitxers .form.
+No hem pogut incloure Makefile perque no sabem com fer-ne un que reconegui aquests forms.
+
+
+El codi del projecte es a src.
+
+Al directori resources es crea un fitxer filename.txt que es va sobreescrivint amb els taulells que genera,
+en el format de strings explicat a l'enunciat. En aquest directori l'usuari haura d'introduir els seus
+taulells personalitzats per a que els llegeixi el programa.

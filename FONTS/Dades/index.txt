@@ -1,0 +1,4 @@
+Aquest directori fa la funcio de la capa de persistencia.
+conte els fitxers d'informacio, Partides, Perfils i Taulells.
+
+Taulells inclou 6 taulells predeterminats.

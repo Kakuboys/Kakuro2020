@@ -1,0 +1,12 @@
+Normes:
+
+1. L'objectiu principal del joc és omplir totes les cel·les blanques amb nombres de 1 a 9.
+
+2. La suma de totes les xifres ha de ser la corresponent a la indicada a la cel·la negra.
+
+3. A les cel·les negres amb nombres, la xifra alta dreta significa la suma dels nombres
+de la fila a la dreta de la cel.la negra, i la xifra baixa esquerra significa la suma
+dels nombres de la columna sota la cel.la negra.
+
+4. En una mateixa fila o columna a la dreta o a baix d'una casella negra amb nombres, no es poden repetir números.
+Per exemple, si la suma de la fila ha de ser 14, i hi han dues caselles blanques, mai podrà ser 7 i 7, però sí 8 i 6.

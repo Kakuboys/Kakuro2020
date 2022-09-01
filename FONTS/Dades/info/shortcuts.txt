@@ -1,0 +1,6 @@
+A continuacio teniu la llista de dreceres mitjançant el teclat:
+
+- Jugar : Alt + J
+- Log In : Alt + L
+- Sign Up : Alt + I
+- Sortir : Alt + S
